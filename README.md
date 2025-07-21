@@ -20,5 +20,6 @@
    npm run dev
    ```
 
-   ## Documentation
+## Documentation
+
 https://nextra.site
