@@ -19,3 +19,6 @@
    ```bash
    npm run dev
    ```
+
+   ## Documentation
+https://nextra.site
